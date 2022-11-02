@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid black;
+}
+.row{
+    text-align: center;
+}
+.row .h1{
+    text-align: center;
+}
+h1{
+    background: var(--purple);
+}
